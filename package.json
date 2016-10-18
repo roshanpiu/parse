@@ -1,0 +1,24 @@
+{
+  "name": "parse_dashboard",
+  "version": "1.0.0",
+  "description": "a express app which facilitates parse server and the parse dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshanpiu/parse.git"
+  },
+  "author": "Roshan Piumal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshanpiu/parse/issues"
+  },
+  "homepage": "https://github.com/roshanpiu/parse#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "parse-dashboard": "^1.0.18",
+    "parse-server": "^2.2.22"
+  }
+}
